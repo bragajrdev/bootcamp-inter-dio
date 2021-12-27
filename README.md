@@ -1,2 +1,5 @@
-# Rpositório do Desafio de Projeto de GIT/GITHUB
-Desafio criação primeiro repositorio DIO
+### Repositório de Desafio acerca do Bootcamp INTER da DIO
+
+*Desafio criação primeiro repositorio DIO*
+
+*Anotações de cada um dos módulos estudados*
